@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+.DS_Store
 # Compiled Object files
 *.slo
 *.lo
@@ -15,7 +15,7 @@
 *.so
 *.dylib
 *.dll
-
+!libraylib.a
 # Fortran module files
 *.mod
 *.smod
