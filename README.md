@@ -1,1 +1,1 @@
-# 2d-text-game
+# 2d-game
